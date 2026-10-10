@@ -1,71 +1,23 @@
 # Buziraco: La Sombra de las Tres Cruces
-
 ## Premisa
-
-Extraños temblores, enfermedades y calamidades comienzan a afectar a la ciudad de Cali, y los habitantes creen que Buziraco ha regresado. Mateo decide investigar los acontecimientos y descubre que los recientes desastres podrían estar relacionados con la antigua leyenda del demonio. Sus decisiones determinarán si la ciudad recupera la tranquilidad o cae nuevamente bajo la influencia de Buziraco.
-
----
+El demonio Buziraco ha despertado, desatando un violento terremoto sobre Cali. Mateo y el Padre Esteban deben aplicar los protocolos reales de supervivencia sísmica para sobrevivir al desastre, mientras intentan llegar al Cerro de las Tres Cruces para realizar un antiguo ritual y sellar a la entidad antes de que destruya la ciudad.
 
 ## Personajes
+- Mateo: Joven habitante de Cali. Valiente, investiga las calamidades y porta el manuscrito del ritual.
+- Padre Esteban: Representante de la Iglesia. Conoce la leyenda de Buziraco y domina las normativas de evacuación y seguridad.
+- Buziraco: Entidad demoníaca gigante hecha de sombras y tierra, causante de los temblores.
 
-### Mateo
+## Escenarios (fondos)
+- Centro de Cali (Temblor): Calles agrietándose, escombros cayendo, sombra gigante en el cielo.
+- Iglesia Colonial (Refugio): Interior con columnas gruesas, zona de seguridad estructural.
+- Cerro de las Tres Cruces: Terreno agrietado por el sismo, epicentro de la presencia de Buziraco.
 
-Joven habitante de Cali que decide investigar las calamidades que afectan a la ciudad.
-
-### Padre Esteban
-
-Representante de la Iglesia que conoce las antiguas leyendas relacionadas con Buziraco y guía al protagonista durante la investigación.
-
-### Buziraco
-
-Entidad sobrenatural asociada a temblores, enfermedades y desgracias. Es el principal antagonista de la historia.
-
----
-
-## Escenarios
-
-### Centro de Cali
-
-Lugar donde comienzan los sucesos extraños y donde el protagonista obtiene las primeras pistas.
-
-### Iglesia Colonial
-
-Lugar donde el protagonista consulta documentos antiguos y conversa con el Padre Esteban.
-
-### Cerro de las Tres Cruces
-
-Escenario final donde se desarrolla el enfrentamiento relacionado con el destino de Buziraco.
-
----
-
-## Estructura Narrativa
-
-### Introducción
-
-Mateo observa cómo la ciudad es afectada por fenómenos inexplicables. Los habitantes hablan del regreso de Buziraco.
-
-### Decisión 1
-
-¿Investigar por cuenta propia o acudir a la Iglesia?
-
-- Investigar solo.
-- Buscar ayuda del Padre Esteban.
-
-### Desarrollo
-
-El protagonista reúne información sobre la leyenda y descubre que la presencia de Buziraco está relacionada con los recientes desastres que afectan la región.
-
-### Decisión 2
-
-¿Realizar el ritual de sellado recomendado por la Iglesia o intentar enfrentar directamente a Buziraco?
-
-- Realizar el ritual.
-- Enfrentar directamente a Buziraco.
-
-### Final Bueno
-
-El ritual se completa correctamente y Buziraco queda sellado bajo la protección de las Tres Cruces, devolviendo la tranquilidad a la ciudad.
-
-### Final Alternativo
-
-El ritual fracasa o el enfrentamiento se realiza de forma incorrecta. Buziraco escapa y las calamidades continúan afectando la región.
+## Estructura
+- Escena 1: El cielo se oscurece y un temblor masivo sacude el Centro de Cali. Buziraco se manifiesta.
+- Decisión 1 (Durante el sismo): ¿Salir corriendo en pánico para intentar atacar a Buziraco en la calle? o ¿Resguardarse junto a una columna resistente en la Iglesia Colonial para leer el manuscrito?
+- Escena 2A (Ruta del Pánico - Incorrecta): Mateo sufre daños por caída de escombros, perdiendo parte del manuscrito.
+- Escena 2B (Ruta de Prevención - Correcta): Mateo se resguarda a salvo. El Padre Esteban le indica la ruta de evacuación oficial hacia las Tres Cruces para completar el ritual.
+- Escena 3 (El Enfrentamiento): Llegan al Cerro. Buziraco provoca un último sismo devastador.
+- Decisión 2 (Después del sismo): ¿Realizar el ritual de sellado usando el kit de emergencia como ofrenda estabilizadora? o ¿Enfrentarlo directamente a golpes?
+- Final 1 (Final Bueno): Mateo aplica la prevención, el ritual funciona, las Tres Cruces brillan y Buziraco es sellado. El terremoto cesa y la ciudad se salva.
+- Final 2 (Final Alternativo): Por ignorar las medidas de prevención, el ritual fracasa. Buziraco escapa riendo, los sismos continúan y la ciudad queda en ruinas.
