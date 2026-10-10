@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6360b9f9b32abb6459ab60c89d6426a7, type: 3}
+  m_Name: 06_Decision2
+  m_EditorClassIdentifier: Assembly-CSharp::StoryNode
+  nodeID: DECISION_2
+  location: {fileID: 11400000, guid: 20428f014fd8b534ba039d30a0d1f24e, type: 2}
+  dialogueLines:
+  - speaker: {fileID: 11400000, guid: 5c127c1e689553644bb8a23c9f07304c, type: 2}
+    customPortrait: {fileID: 0}
+    text: "La sacudida se ha estabilizado. Es nuestro \xFAnico instante para actuar
+      antes de que Buziraco destruya la ciudad entera."
+    sfx: {fileID: 0}
+  - speaker: {fileID: 11400000, guid: 3e97d6b78b662594e836f9c1b2c56e6d, type: 2}
+    customPortrait: {fileID: 0}
+    text: "Elige con sabidur\xEDa, Mateo. De esta acci\xF3n depende el destino de
+      Cali."
+    sfx: {fileID: 0}
+  nodeType: 1
+  nextLinearNode: {fileID: 0}
+  choices:
+  - choiceText: Realizar el ritual de sellado usando el kit de emergencia como ofrenda
+      estabilizadora
+    targetNode: {fileID: 11400000, guid: 2aa846113f2a07349a0335f20d1b1ee3, type: 2}
+  - choiceText: Enfrentarlo directamente a golpes
+    targetNode: {fileID: 11400000, guid: 91d7f6a7a7c5f7c4c85ed56243659d48, type: 2}
+  endingType: 0

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6360b9f9b32abb6459ab60c89d6426a7, type: 3}
+  m_Name: 05_EnfrentamientoFinal
+  m_EditorClassIdentifier: Assembly-CSharp::StoryNode
+  nodeID: ENFRENTAMIENTO_FINAL
+  location: {fileID: 11400000, guid: 20428f014fd8b534ba039d30a0d1f24e, type: 2}
+  dialogueLines:
+  - speaker: {fileID: 0}
+    customPortrait: {fileID: 0}
+    text: "Llegan con esfuerzo a la cima del Cerro de las Tres Cruces. La enorme
+      silueta sombr\xEDa de Buziraco emerge entre densas fumarolas y grietas."
+    sfx: {fileID: 0}
+  - speaker: {fileID: 11400000, guid: 4c86093a05c3b5640b33101950a0bf2d, type: 2}
+    customPortrait: {fileID: 0}
+    text: "\xA1Insectos insignificantes! \xBFCreen que pueden detenerme en el coraz\xF3n
+      de mi dominio tel\xFArico?"
+    sfx: {fileID: 0}
+  - speaker: {fileID: 0}
+    customPortrait: {fileID: 0}
+    text: "Buziraco desata una violenta r\xE9plica s\xEDsmica que sacude la monta\xF1a,
+      abriendo profundas grietas en la tierra."
+    sfx: {fileID: 0}
+  - speaker: {fileID: 11400000, guid: 3e97d6b78b662594e836f9c1b2c56e6d, type: 2}
+    customPortrait: {fileID: 0}
+    text: "\xA1Esta es la r\xE9plica final! Si actuamos con sensatez y aplicamos
+      lo aprendido, podremos activar el sello de las Tres Cruces."
+    sfx: {fileID: 0}
+  nodeType: 0
+  nextLinearNode: {fileID: 11400000, guid: 9a374452a5b029640ad74059139e1ee9, type: 2}
+  choices: []
+  endingType: 0
