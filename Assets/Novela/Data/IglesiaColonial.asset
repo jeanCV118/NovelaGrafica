@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LocationData
   id: iglesia_colonial
   displayName: Iglesia Colonial
-  backgroundSprite: {fileID: 0}
+  backgroundSprite: {fileID: -4929039525176087131, guid: 541f8a300b9bba4439e1420c341f4401, type: 3}
   ambientMusic: {fileID: 0}

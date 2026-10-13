@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LocationData
   id: cerro_tres_cruces
   displayName: Cerro de las Tres Cruces
-  backgroundSprite: {fileID: 0}
+  backgroundSprite: {fileID: 1831122823469400505, guid: 3300ace0e40c6c94588c274463757ae8, type: 3}
   ambientMusic: {fileID: 0}
