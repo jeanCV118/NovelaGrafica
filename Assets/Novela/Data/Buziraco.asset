@@ -15,4 +15,4 @@ MonoBehaviour:
   id: buziraco
   displayName: Buziraco
   nameColor: {r: 1, g: 1, b: 1, a: 1}
-  defaultPortrait: {fileID: 0}
+  defaultPortrait: {fileID: 5014343862757180956, guid: 07a7cc468e510e34d82bc33780677f3b, type: 3}

@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LocationData
   id: centro_cali
   displayName: Centro de Cali
-  backgroundSprite: {fileID: 0}
+  backgroundSprite: {fileID: -7312042987017513944, guid: 9b7bcfc5f4d5fc043ac8a94a48f378f8, type: 3}
   ambientMusic: {fileID: 0}

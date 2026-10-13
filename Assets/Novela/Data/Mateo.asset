@@ -15,4 +15,4 @@ MonoBehaviour:
   id: mateo
   displayName: Mateo
   nameColor: {r: 1, g: 1, b: 1, a: 1}
-  defaultPortrait: {fileID: 0}
+  defaultPortrait: {fileID: 1096657789417567068, guid: 926491d08db1cc248aea7ee3030f4c08, type: 3}
