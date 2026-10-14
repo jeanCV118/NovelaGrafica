@@ -252,14 +252,14 @@ RectTransform:
   m_GameObject: {fileID: 270865521}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.5727, y: 1.5727, z: 1.5727}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1138339325}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -271.8, y: 153}
+  m_AnchoredPosition: {x: -432, y: 251}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &270865523
@@ -309,8 +309,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 36.66
+  m_fontSizeBase: 36.66
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -625,7 +625,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -92, y: 110}
+  m_AnchoredPosition: {x: -92, y: 153}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &459865083
@@ -648,9 +648,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "        Buziraco: La Sombra de las Tres Cruces\n\nDesarrolladores:\n-
-    Nombre \n- Nombre\n- Nombre\n- Nombre\n- Nombre\n-  Nombre\n\nMotor:\nUnity 6\n\nIm\xE1genes:\nGeneradas
-    con IA\n\n"
+  m_text: "        Buziraco: La Sombra de las Tres Cruces\n\nDESARROLLADORES:\n\nSEBASTIAN
+    MENESES\r\nJEAN CARLOS VALENS JIMENEZ\r\nJUAN CAMILO MURILLO MURILLO\r\nANGEL
+    DE JESUS RIASCOS MELENDEZ\r\nMIGUEL ANGEL MU\xD1OZ FLOR\r\nJUAN JOSE SEMANATE
+    GARCIA\n\nMotor:\nUnity 6\n\nIm\xE1genes:\nGeneradas con IA\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -683,7 +684,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 16
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -897,7 +898,7 @@ RectTransform:
   m_GameObject: {fileID: 610214677}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.1172, y: 2.1172, z: 2.1172}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 719838713}
@@ -905,7 +906,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.3558, y: -68.9}
+  m_AnchoredPosition: {x: -9.3557, y: -160}
   m_SizeDelta: {x: 146.2368, y: 65.3188}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &610214679
@@ -1030,7 +1031,7 @@ RectTransform:
   m_GameObject: {fileID: 663496790}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.0465, y: 2.0465, z: 2.0465}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 531771726}
@@ -1038,7 +1039,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.3999, y: -145.9}
+  m_AnchoredPosition: {x: -9.3999, y: -305}
   m_SizeDelta: {x: 128.8626, y: 60.1392}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &663496792
@@ -1850,7 +1851,7 @@ RectTransform:
   m_GameObject: {fileID: 1826686233}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.31, y: 2.31, z: 2.31}
+  m_LocalScale: {x: 5.7075477, y: 5.7075477, z: 5.7075477}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 719931019}
@@ -1858,7 +1859,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.3999, y: 11.5402}
+  m_AnchoredPosition: {x: -9.3999, y: 11.54}
   m_SizeDelta: {x: 65.1786, y: 31.5067}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1826686235
