@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using System.Collections;
 
 public class NovelUI : MonoBehaviour
 {
@@ -11,6 +12,8 @@ public class NovelUI : MonoBehaviour
     [Header("Elementos Visuales")]
     [SerializeField] private Image backgroundImage;
     [SerializeField] private Image portraitImage;
+    [Header("Transiciones")]
+    [SerializeField] private FadeTransition fadeTransition;
 
     [Header("Caja de Diálogo")]
     [SerializeField] private GameObject dialoguePanel;
@@ -116,10 +119,28 @@ public class NovelUI : MonoBehaviour
             controller.RestartStory();
         }
     }
+    private IEnumerator ChangeBackgroundWithFade(LocationData location)
+    {
+        yield return fadeTransition.FadeOut();
+
+        backgroundImage.sprite = location.backgroundSprite;
+        backgroundImage.gameObject.SetActive(location.backgroundSprite != null);
+
+        yield return fadeTransition.FadeIn();
+    }
 
     private void HandleLocationChanged(LocationData location)
     {
-        if (backgroundImage != null && location != null)
+        if (backgroundImage == null || location == null)
+        {
+            return;
+        }
+
+        if (fadeTransition != null)
+        {
+            StartCoroutine(ChangeBackgroundWithFade(location));
+        }
+        else
         {
             backgroundImage.sprite = location.backgroundSprite;
             backgroundImage.gameObject.SetActive(location.backgroundSprite != null);
