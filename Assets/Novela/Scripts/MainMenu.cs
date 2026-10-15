@@ -1,6 +1,10 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
+
 public class MainMenu : MonoBehaviour
 {
     public GameObject creditsPanel;
@@ -19,7 +23,7 @@ public class MainMenu : MonoBehaviour
     {
         creditsPanel.SetActive(false);
     }
-    
+
     public void ReturnToMainMenu()
     {
         SceneManager.LoadScene("Menu");
@@ -27,10 +31,10 @@ public class MainMenu : MonoBehaviour
 
     public void ExitGame()
     {
+#if UNITY_EDITOR
+        EditorApplication.isPlaying = false;
+#else
         Application.Quit();
-
-        #if UNITY_EDITOR
-        Debug.Log("Salir");
-        #endif
+#endif
     }
 }
